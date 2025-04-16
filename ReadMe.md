@@ -1,10 +1,10 @@
-# 🧹 Downloads Folder Organizer
+# Downloads Folder Organizer
 
 A Python script to automatically organize your macOS Downloads folder by sorting files into categorized subfolders based on their file types — helping you keep things clean and easy to navigate.
 
 ---
 
-## 📂 What It Does
+## What It Does
 
 This script scans your `~/Downloads` directory and moves files into subfolders like:
 
@@ -21,7 +21,7 @@ Each file is moved into its appropriate folder. If a folder doesn't exist, it’
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
