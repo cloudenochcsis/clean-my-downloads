@@ -7,7 +7,7 @@
     
     <key>ProgramArguments</key>
     <array>
-        <string>/usr/bin/python3</string>
+        <string>/Users/akpadetsi/.pyenv/versions/3.13.3/bin/python3</string>
         <string>/Users/akpadetsi/Cloud Projects/clean-my-downloads/organize_downloads.py</string>
     </array>
     
